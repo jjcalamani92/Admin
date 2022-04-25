@@ -1,0 +1,6 @@
+export *  from './AuthRoutes'
+export *  from './UserRoutes'
+export *  from './ClientRoutes'
+export *  from './SearchRoutes'
+export *  from './UploadRoutes'
+export *  from './WearProductRoutes'
